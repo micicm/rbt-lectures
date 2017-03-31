@@ -1,4 +1,4 @@
-## Introduction to using the command line interface terminal
+### Introduction to using the command line interface terminal
 
 ### Cheat sheet
 
